@@ -1,0 +1,27 @@
+{
+  "name": "leaflet-ptv",
+  "version": "1.0.0",
+  "authors": [
+    "Ivan Lucin <lucin.ivan@gmail.com>",
+    "PTV Group <"
+  ],
+  "description": "Provides the PTV AbstractOverlay Layer class for Leaflet map",
+  "main": "leaflet-ptv.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "leaflet",
+    "ptv",
+    "map"
+  ],
+  "license": "MIT",
+  "homepage": "http://xserver.ptvgroup.com/de/cookbook/javascript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
